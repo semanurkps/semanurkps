@@ -7,7 +7,7 @@ since August-2020. I like sharing what I have leared with the community through 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semanurkapusizoglu/)
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@semanurkps)
-[![](https://img.shields.io/badge/Data%20Science%20Earth-Author-blue)](https://www.datasciencearth.com/author/semanurkps/)
+[![](https://img.shields.io/badge/Data%20Science%20Earth-%2312100E.svg?&style=flat)](https://www.datasciencearth.com/author/semanurkps/)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/semanurkps)
 [![](https://img.shields.io/badge/Email-semanurkps%40gmail.com-blue)](mailto:semanurkps@gmail.com)
 
