@@ -13,8 +13,8 @@ since August-2020. I like sharing what I have leared with the community through 
 
 <h2> Programming Languages I know </h2>
 <div>
-	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/> <p> </p>
-  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white"/>
 </div>
   
 <h2> Tools & Libraries I have used</h2>
