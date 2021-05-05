@@ -1,9 +1,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semanurkps" alt="semanurkps" /> </p>
 
-<h1 align="center"> Hi There, I'm Sema!👋</h1>
+<img src= "https://github.com/semanurkps/semanurkps/blob/main/github.PNG" />
 
-I recently (August-2020) graduated from *Industrial Engineering* and started taking masters in the same field. I have been learning and implementing **Data Science**
-since August-2020. I like sharing what I have leared with the community through different social platforms. You can see some of them below!
+- Recently (August-2020) graduated from *Industrial Engineering* and started taking masters in the same field. 
+- Budding *Data Engineer* working at a governmental organization. 
+- Living to learn something new everyday. 
+- Passionate about tackling with real-world problems
+
+**Currently Learning** :
+- Streaming Data Analysis (Apache Kafka and Spark)
+
+**Research Interests** : 
+- Data Engineering Technologies
+- Artificial Intelligence
+- Optimization Techniques
+- Operations Research
+
+I like sharing what I have leared with the community through different social platforms. You can see some of them below!
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semanurkapusizoglu/)
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@semanurkps)
