@@ -3,12 +3,12 @@
 <img src= "https://github.com/semanurkps/semanurkps/blob/main/github.PNG" />
 
 - Recently (August-2020) graduated from *Industrial Engineering* and started taking masters in the same field. 
-- Budding *Data Engineer* working at a governmental organization. 
+- Budding *Data Engineer* working at a consulting firm. 
 - Living to learn something new everyday. 
 - Passionate about tackling with real-world problems
 
 **Currently Learning** :
-- Streaming Data Analysis (Apache Kafka and Spark)
+- Streaming Data Analysis (Apache Spark)
 
 **Research Interests** : 
 - Data Engineering Technologies
@@ -22,7 +22,7 @@ I like sharing what I have leared with the community through different social pl
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@semanurkps)
 [![](https://img.shields.io/badge/Data%20Science%20Earth-%2312100E.svg?&style=flat)](https://www.datasciencearth.com/author/semanurkps/)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/semanurkps)
-[![](https://img.shields.io/badge/Leetcode-%2312100E.svg?&style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/semanurkps/)
+<!-- [![](https://img.shields.io/badge/Leetcode-%2312100E.svg?&style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/semanurkps/) -->
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/semanurkps)
 <!-- [![](https://img.shields.io/badge/Hacker%20Earth-%2312100E.svg?&style=flat&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@semanurkps) -->
 [![](https://img.shields.io/badge/Email-semanurkps%40gmail.com-blue)](mailto:semanurkps@gmail.com)
