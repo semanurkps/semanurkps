@@ -27,4 +27,3 @@ I like sharing what I have leared with the community through different social pl
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/semanurkps)
 [![](https://img.shields.io/badge/Email-semanurkps%40gmail.com-blue)](mailto:semanurkps@gmail.com)
   
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=semanurkps&show_icons=true">
