@@ -2,13 +2,15 @@
 
 <img src= "https://github.com/semanurkps/semanurkps/blob/main/github.PNG" />
 
-- Recently (August-2020) graduated from *Industrial Engineering* and started taking masters in the same field. 
-- Budding *Data Engineer* working at a consulting firm. 
+- Graduated from *Industrial Engineering* and completed masters in the same field. Thesis topic: Using Incremental Machine Learning to Predict Solar Power Prediction
+- *Data Engineer* working at a consulting firm. I help your organization to carve raw data into valuable insights & assets. 
 - Living to learn something new everyday. 
-- Passionate about tackling with real-world problems
+- Passionate about tackling with real-world problems.
+- Scuba Diver, love travelling around and getting to know new cultures.
 
 **Currently Learning** :
-- Streaming Data Analysis (Apache Spark)
+- Deployment design
+- Containerization & Platform Engineering (Docker, Terraform)
 
 **Research Interests** : 
 - Data Engineering Technologies
